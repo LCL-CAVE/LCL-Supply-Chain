@@ -20,7 +20,7 @@ def create_map_marker():
                 dl.Tooltip(
                     content=str(df['node'].iloc[i]) + '<br>' + str(
                         df['param_name'].iloc[i]) + ": " + str(
-                        df['param_value'].iloc[i]))
+                        df['param_value'].iloc[i]),className="marker-map")
             ]
         )
         for i in range(df.shape[0])

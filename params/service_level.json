@@ -5,7 +5,7 @@
     "min": 4,
     "max": 20,
     "step": 1,
-    "value": 8,
+    "value": 13,
     "label_on": 1,
     "margin_bottom": 40,
     "mark": [
@@ -29,7 +29,7 @@
     "min": 4,
     "max": 20,
     "step": 1,
-    "value": 8,
+    "value": 15,
     "label_on": 1,
     "margin_bottom": 40,
     "mark": [

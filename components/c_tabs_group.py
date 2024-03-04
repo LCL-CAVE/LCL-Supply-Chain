@@ -11,6 +11,7 @@ def create_tabs_group():
                     dmc.Tab("Overview", value="1"),
                     dmc.Tab("Detailed results", value="2"),
                 ]
+
             ),
             dmc.TabsPanel(
                 create_display_result_a_layout(),

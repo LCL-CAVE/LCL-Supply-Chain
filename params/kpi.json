@@ -15,7 +15,7 @@
   },
   {
     "label": "Transport cost",
-    "value": 1.263,
+    "value": "1.263.107",
     "id": "avg_cost_transport",
     "unit": "euro",
     "color": "lime"
